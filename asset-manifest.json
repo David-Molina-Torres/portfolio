@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/David-Auditore.github.io/portfolio/static/css/main.e6da3515.css",
-    "main.js": "/David-Auditore.github.io/portfolio/static/js/main.37b3195d.js",
-    "index.html": "/David-Auditore.github.io/portfolio/index.html",
-    "main.e6da3515.css.map": "/David-Auditore.github.io/portfolio/static/css/main.e6da3515.css.map",
-    "main.37b3195d.js.map": "/David-Auditore.github.io/portfolio/static/js/main.37b3195d.js.map"
+    "main.css": "/portfolio/static/css/main.e6da3515.css",
+    "main.js": "/portfolio/static/js/main.37b3195d.js",
+    "index.html": "/portfolio/index.html",
+    "main.e6da3515.css.map": "/portfolio/static/css/main.e6da3515.css.map",
+    "main.37b3195d.js.map": "/portfolio/static/js/main.37b3195d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6da3515.css",
